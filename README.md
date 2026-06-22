@@ -9,6 +9,8 @@ An interactive HR analytics dashboard built in Tableau, designed to provide HR m
 
 ## Dashboard Preview
 
+![HR Overview Dashboard](dashboard-preview.png)
+
 The dashboard is divided into two main sections:
 
 **Overview**
@@ -75,11 +77,11 @@ The dashboard is divided into two main sections:
 | File | Description |
 |---|---|
 | `HR Dashboard.csv` | Source dataset (8,950 records) |
-| `Home_assigment_3_-_HR_Employee_dashboard.twbx` | Tableau packaged workbook |
-| `A03_-_User_Story_-_HR_Dashboard.pdf` | Original project requirements |
+| `HR_Employee_Dashboard.twbx` | Tableau packaged workbook |
 
 ---
 
 ## Author
-נחמיה יוסף חי
-Practical Data Analyst Course
+
+**Nemi Yossef Hai**
+[LinkedIn](https://www.linkedin.com/in/nemi-yossef-hai) · nemiys@gmail.com
